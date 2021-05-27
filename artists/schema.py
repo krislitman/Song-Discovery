@@ -11,6 +11,7 @@ class ArtistType(DjangoObjectType):
 class AlbumType(DjangoObjectType):
     class Meta:
         model = Album
+    
 
 
 class SongType(DjangoObjectType):

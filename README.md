@@ -3,7 +3,7 @@ Song Discovery
 
 [CircleCI Build Status]()
 
-© Kris Litman ([LinkedIn](https://www.linkedin.com/in/kris-litman/)) 2021<br> (Creator)
+© Kris Litman ([LinkedIn](https://www.linkedin.com/in/kris-litman/)) 2021<br> (Creator) 
 
 Table of Contents
 =================

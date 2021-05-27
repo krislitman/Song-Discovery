@@ -8,8 +8,8 @@ django = "*"
 graphene-django = "*"
 python-dotenv = "*"
 flask-sqlalchemy = "*"
-mysqlclient = "*"
 psycopg2 = "*"
+graphene = "*"
 
 [dev-packages]
 

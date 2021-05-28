@@ -3,7 +3,7 @@ Song Discovery
 
 [![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
 
-[![CircleCI](https://circleci.com/github/krislitman/Song-Discovery.svg?style=shield&circle-token=7a09daf10e89a2036fec21bbe10696dfe8c69dd0)](<LINK>)
+[![CircleCI](https://app.circleci.com/github/krislitman/Song-Discovery.svg?style=shield&circle-token=7a09daf10e89a2036fec21bbe10696dfe8c69dd0)](<LINK>)
 
 © Kris Litman ([LinkedIn](https://www.linkedin.com/in/kris-litman/)) 2021<br> (Creator) 
 

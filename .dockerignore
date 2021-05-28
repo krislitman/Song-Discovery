@@ -1,11 +1,4 @@
-# Ignore files here
-
 .env
-
 fixtures.json
-
 django_song_search/settings.py
-
-.gitignore
-
 .pytest_cache

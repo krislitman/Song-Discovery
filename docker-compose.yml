@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  db:
+    image: postgres
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_DB: song_search
+      POSTGRES_PASS: 
+  app:
+    build:
+      context: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./django_song_search:/django_song_search
+    command: python manage.py runserver 0.0.0.0:8000
+      

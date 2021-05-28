@@ -1,7 +1,7 @@
 Song Discovery
 ==============
 
-[CircleCI Build Status]()
+[![CircleCI](https://app.circleci.com/pipelines/github/krislitman/Song-Discovery.svg?style=shield&circle-token=7a09daf10e89a2036fec21bbe10696dfe8c69dd0)](<LINK>)
 
 © Kris Litman ([LinkedIn](https://www.linkedin.com/in/kris-litman/)) 2021<br> (Creator) 
 
